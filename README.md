@@ -1,5 +1,4 @@
-# 👋🏾 Kevin Nzeng (knzeng-e)
-
+# 👋🏾 Kevin Nzeng Essimengane
 ---
 
 ## Intro
