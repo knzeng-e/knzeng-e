@@ -1,9 +1,9 @@
 # 👋🏾 Kevin Nzeng Essimengane
 
 Blockchain engineer [@energywebfoundation](https://github.com/energywebfoundation) · Toulouse, France  
-Graduate of the **Protocol Builders Program** — Polkadot Blockchain Academy & Parity Technologies, first edition, Lisbon, April 2026
+Graduate of the **Protocol Builders Program** - Polkadot Blockchain Academy & Parity Technologies, first edition, Lisbon, April 2026
 
-I design ethical and resilient Web3 systems — rooted in truth, transparency and sovereignty — and inspired by ancient African philosophies such as Maât.
+I design ethical and resilient Web3 systems - rooted in truth, transparency and sovereignty - and inspired by ancient African philosophies such as Maât.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white" />
@@ -40,17 +40,17 @@ I design ethical and resilient Web3 systems — rooted in truth, transparency an
 
 ## 🎓 Education & credentials
 
-- **Protocol Builders Program (PBP)** — Polkadot Blockchain Academy & Parity Technologies  
-  *Lisbon, April 2026 — first edition.* Two weeks of protocol-depth training on the Polkadot stack, hosted at Parity's offices. Selective, recruitment-aligned cohort. Capstone project: **Dotify**.
+- **Protocol Builders Program (PBP)** - Polkadot Blockchain Academy & Parity Technologies  
+  *Lisbon, April 2026 - first edition.* Two weeks of protocol-depth training on the Polkadot stack, hosted at Parity's offices. Selective, recruitment-aligned cohort. Capstone project: **Dotify**.
 - **École 42** — Paris
 
 ## 👥 Teaching & community
 
-- **Blockchain lecturer — SUPINFO (Master 2)** · *Feb 2021 – today*  
+- **Blockchain lecturer — SUPINFO (Master 2)** · *Feb 2021 - today*  
   Ethereum, Solidity, Web3, tokens, cryptoeconomics and dApps.
-- **Founder — [42 Blockchain](https://www.youtube.com/@42blockchain)** · *Jun 2019 – Jun 2024*  
+- **Founder — [42 Blockchain](https://www.youtube.com/@42blockchain)** · *Jun 2019 - Jun 2024*  
   A student association at École 42 exploring blockchain's technical, economic, social and philosophical potential.
-- **President — Centre Culturel Africain "Le Mbandja"** · *Jun 2013 – Nov 2024*  
+- **President — Centre Culturel Africain "Le Mbandja"** · *Jun 2013 - Nov 2024*  
   Cultural initiatives fostering African heritage, creativity and knowledge sharing.
 
 ## 🎤 Talks & workshops
@@ -65,7 +65,7 @@ I design ethical and resilient Web3 systems — rooted in truth, transparency an
 
 ## 🌍 Inspirations
 
-My technical work is deeply inspired by African philosophies and by Maât — order, justice, truth. I approach blockchain not only as technology, but as a poetic tool for balance, responsibility and community resilience.
+My technical work is deeply inspired by African philosophies and by Maât - order, justice, truth. I approach blockchain not only as technology, but as a poetic tool for balance, responsibility and community resilience.
 
 That thread is literal, not decorative: KemFlix carries an Ankh token, Maat-chain takes its name from the principle, and Dotify treats music as a living common rather than an asset class.
 
@@ -77,9 +77,9 @@ That thread is literal, not decorative: KemFlix carries an Ankh token, Maat-chai
 <br />
 
 Ingénieur blockchain [@energywebfoundation](https://github.com/energywebfoundation) · Toulouse, France  
-Diplômé du **Protocol Builders Program** — Polkadot Blockchain Academy & Parity Technologies, première édition, Lisbonne, avril 2026
+Diplômé du **Protocol Builders Program** - Polkadot Blockchain Academy & Parity Technologies, première édition, Lisbonne, avril 2026
 
-Je conçois des systèmes Web3 éthiques et résilients — fondés sur la vérité, la transparence et la souveraineté — et inspirés par les philosophies anciennes d'Afrique, comme la Maât.
+Je conçois des systèmes Web3 éthiques et résilients - fondés sur la vérité, la transparence et la souveraineté - et inspirés par les philosophies anciennes d'Afrique, comme la Maât.
 
 ### 🛠️ Projets phares
 
@@ -87,25 +87,25 @@ Je conçois des systèmes Web3 éthiques et résilients — fondés sur la véri
 | --- | --- |
 | **[Dotify](https://github.com/knzeng-e/dotify)** · [dotify.dot.li](https://dotify.dot.li) | Un hub culturel décentralisé où la musique devient un connecteur social vivant. Les artistes publient des œuvres à droits gérés via leur propre runtime on-chain ; les auditeurs partagent une salle d'écoute en temps réel depuis un simple lien. React + Vite, Solidity sur Paseo Asset Hub, WebRTC, IPFS. |
 | **[Polkadot EVM Smart Runtime](https://github.com/knzeng-e/polkadot-evm-smart-runtime)** | Le motif Diamond ERC-2535 appliqué à l'exécution Polkadot : le proxy devient un `SmartRuntime` durable et les facettes se comportent comme des pallets évolutifs. Offre aux contrats EVM une mise à jour sans fork et un dépassement du plafond de bytecode. Solidity + PolkaVM/`resolc`. |
-| **[Product Builders Hackademy](https://github.com/knzeng-e/polkadot-builders-hackademy)** | Un cours « zéro à héros » vérifié à la source pour construire sur le Products Devnet de Polkadot, autour d'un fil rouge — *Humanity Care Commons* — en neuf phases. Chaque chapitre relie une mission humaine à une décision d'ingénierie, vérifiée par une Builder Proof. |
+| **[Product Builders Hackademy](https://github.com/knzeng-e/polkadot-builders-hackademy)** | Un cours « zéro à héros » vérifié à la source pour construire sur le Products Devnet de Polkadot, autour d'un fil rouge - *Humanity Care Commons* - en neuf phases. Chaque chapitre relie une mission humaine à une décision d'ingénierie, vérifiée par une Builder Proof. |
 | **[Scrutinder](https://github.com/knzeng-e/Scrutinder)** | Une app civique de swipe pour évaluer les 837 mesures de *L'Avenir en Commun*. Les votes sont agrégés en temps réel et chaque décompte est publié avec un hash d'intégrité SHA-256 public, vérifiable par tous. |
-| **[KemFlix](https://github.com/knzeng-e/KemFlix)** | Une médiathèque Web3 pour la communauté culturelle Kemet — vidéo, livres audio et e-learning, avec une adhésion inscrite on-chain plutôt que détenue par une plateforme. Bâtie sur EIP-2535 Diamonds avec une facette `AnkhToken` et une facette `Membership`. React + ethers + Hardhat. |
+| **[KemFlix](https://github.com/knzeng-e/KemFlix)** | Une médiathèque Web3 pour la communauté culturelle Kemet - vidéo, livres audio et e-learning, avec une adhésion inscrite on-chain plutôt que détenue par une plateforme. Bâtie sur EIP-2535 Diamonds avec une facette `AnkhToken` et une facette `Membership`. React + ethers + Hardhat. |
 
 ### 🎓 Formation
 
-- **Protocol Builders Program (PBP)** — Polkadot Blockchain Academy & Parity Technologies  
-  *Lisbonne, avril 2026 — première édition.* Deux semaines de formation au niveau protocole sur la stack Polkadot, dans les bureaux de Parity. Promotion sélective. Projet de fin de programme : **Dotify**.
+- **Protocol Builders Program (PBP)** - Polkadot Blockchain Academy & Parity Technologies  
+  *Lisbonne, avril 2026 - première édition.* Deux semaines de formation au niveau protocole sur la stack Polkadot, dans les bureaux de Parity. Promotion sélective. Projet de fin de programme : **Dotify**.
 - **École 42** — Paris
 
 ### 👥 Enseignement & communauté
 
-- **Formateur blockchain — SUPINFO (Master 2)** · *Fév 2021 – aujourd'hui*
-- **Fondateur — [42 Blockchain](https://www.youtube.com/@42blockchain)** · *Juin 2019 – Juin 2024*
-- **Président — Centre Culturel Africain « Le Mbandja »** · *Juin 2013 – Nov 2024*
+- **Formateur blockchain - SUPINFO (Master 2)** · *Fév 2021 - aujourd'hui*
+- **Fondateur - [42 Blockchain](https://www.youtube.com/@42blockchain)** · *Juin 2019 - Juin 2024*
+- **Président - Centre Culturel Africain « Le Mbandja »** · *Juin 2013 - Nov 2024*
 
 ### 🎤 Conférences & ateliers
 
-- **Atelier « Développeuse Blockchain » — 10 000 Codeurs** · *Epitech Bénin, 19 octobre 2023* → [Détails](https://10000codeurs.com/atelier-developpeuse-blockchain/)
+- **Atelier « Développeuse Blockchain » - 10 000 Codeurs** · *Epitech Bénin, 19 octobre 2023* → [Détails](https://10000codeurs.com/atelier-developpeuse-blockchain/)
 - **SENUM 2023 — Semaine du Numérique Bénin** · *Cotonou, 6–10 novembre 2023* → [Article L'Économiste du Bénin](https://web.archive.org/web/20241012183133/https://leconomistebenin.com/les-opportunites-et-defis-de-la-blockchain-presentes/)
 
 ### 🌍 Inspirations
