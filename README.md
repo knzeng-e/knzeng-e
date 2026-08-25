@@ -31,7 +31,7 @@ I design ethical and resilient Web3 systems — rooted in truth, transparency an
 
 - **[Maat-chain](https://github.com/knzeng-e/Maat-chain)** — exploratory Frontier-based node built with the Polkadot SDK
 - **[LandRegistry](https://github.com/knzeng-e/LandRegistry)** — on-chain land registry proof of concept for the Republic of Benin
-- **[Trankilow](https://github.com/knzeng-e/trankilow)** — peer-to-peer logistics app with tokenized kilos transported
+- **[Trankilow](https://github.com/knzeng-e/trankilow_v2)** — peer-to-peer logistics app with tokenized kilos transported
 - **[ArtChain](https://github.com/knzeng-e/ArtChain)** — early NFT exploration
 
 </details>
